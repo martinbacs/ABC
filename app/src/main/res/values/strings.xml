@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">ABC Appen</string>
+
+    <string name="button_create_profile"></string>
+    <string name="reset">reset</string>
+    <string name="nextBtn">next</string>
+    <string name="nextBtnn">next letter</string>
+    <string name="n_sta_bokstav">nästa Bokstav</string>
+
+    <string name="resultat">resultat</string>
+    <string name="ord">ord</string>
+    <string name="recordBtn">recordBtn</string>
+    <string name="speechImage">speechImage</string>
+    <string name="speech_bg">speech_bg</string>
+
+    <string name="spela">SPELA</string>
+
+    <string name="previous">\u003c</string>
+    <string name="next">\u003e</string>
+
+    <string name="placeholder_string">PLACEHOLDER</string>
+
+    <string name="writing_statistics">Skriv statistik: </string>
+    <string name="reading_statistics">Läs statistik: </string>
+
+    <string-array name="letters">
+        <item>S</item>
+        <item>I</item>
+        <item>L</item>
+        <item>O</item>
+        <item>R</item>
+        <item>E</item>
+        <item>M</item>
+        <item>A</item>
+        <item>K</item>
+        <item>P</item>
+        <item>T</item>
+        <item>V</item>
+        <item>N</item>
+        <item>F</item>
+        <item>Å</item>
+        <item>Ä</item>
+        <item>Ö</item>
+        <item>U</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>G</item>
+        <item>H</item>
+        <item>J</item>
+        <item>Q</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+
+    <string-array name="words">
+        <item>IS</item>
+        <item>MOS</item>
+        <item>ROS</item>
+        <item>SOL</item>
+        <item>ORM</item>
+        <item>SIL</item>
+        <item>KO</item>
+        <item>APA</item>
+        <item>RAM</item>
+        <item>OST</item>
+        <item>VAL</item>
+        <item>REN</item>
+        <item>FÅR</item>
+        <item>LÖK</item>
+    </string-array>
+
+    <integer-array name="word_drawables">
+        <item>@drawable/ice</item>
+        <item>@drawable/mashed_potatoes</item>
+        <item>@drawable/rose</item>
+        <item>@drawable/sun</item>
+        <item>@drawable/snake</item>
+        <item>@drawable/strainer</item>
+        <item>@drawable/monkey</item>
+        <item>@drawable/frame</item>
+        <item>@drawable/cow</item>
+        <item>@drawable/cheese</item>
+        <item>@drawable/whale</item>
+        <item>@drawable/reindeer</item>
+        <item>@drawable/sheep</item>
+        <item>@drawable/onion</item>
+    </integer-array>
+</resources>
