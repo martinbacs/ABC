@@ -22,8 +22,8 @@ The development group included four students and was developed during the course
 ```
 
 # Home activity & Alphabet game statistics
-<img src="images/abc_homeactivity.png" width=50% height=50%><img src="images/abc_game1stats.png" width=50% height=50%>
+<img src="images/abc_homeactivity.png">&emsp;<img src="images/abc_game1stats.png">
 # Alphabet game & Pronunciation game
-<img src="images/abc_game1.png" width=50% height=50%><img src="images/abc_game2.png" width=50% height=50%>
+<img src="images/abc_game1.png">&emsp;<img src="images/abc_game2.png">
 
 
